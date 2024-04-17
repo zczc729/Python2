@@ -11,3 +11,5 @@ day4/chap13 - 함수 대입, 함수 전달, 람다 함수, filter(), map()
 day5/chap14 - module
 
 day6/chap14 - module(turtle) / chap15 - 예외처리
+
+day7/chap15 - 예외처리
