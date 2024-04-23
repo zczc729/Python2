@@ -13,3 +13,9 @@ day5/chap14 - module
 day6/chap14 - module(turtle) / chap15 - 예외처리
 
 day7/chap15 - 예외처리
+
+day8/chap15 - 예외처리 / chap16 - 파일 입출력
+
+day9/chap16 - 파일 입출력 / chap17 - tkinter
+
+day10/chap17 - tkinter
