@@ -21,3 +21,13 @@ day9/chap16 - 파일 입출력 / chap17 - tkinter
 day10/chap17 - tkinter
 
 day11/chap17 - tkinter / chap18 - OOP
+
+day12/chap18 - OOP / chap19 - 생성자
+
+day13/chap19 - 생성자 / chap20 - 속성
+
+day14/chap21 - 정보 은닉
+
+day15/chap22 - 상속
+
+
